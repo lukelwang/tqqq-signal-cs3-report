@@ -1,16 +1,16 @@
 {
-  "attestation_sha256": "46be2704cbc682e0a51e31a4dc9dcd014e8a85ed153aa495218afee6a5c5cb74",
+  "attestation_sha256": "7b3bdcd3f77548bda3b175a5edacac15b5b4056665e3db7579f5b85fc4065052",
   "cadence": "morning",
   "daily_bundle_sha256": "335b8062ad24b06167e6b3a7a769cd062ce77d755a713cbbad0b8854400f6184",
   "decision_date": "2026-10-28",
-  "encrypted_html_sha256": "ea3cd0da76aec9c8a4403cc72dd81f05a0c04e33e4eb9938ec2ce6bfad1e1ebd",
+  "encrypted_html_sha256": "ee306e976bc1be73f3a9d46c1f91b2badcffe1fca6c52127e1363ee4630c7c83",
   "model_version": "cs3-1.0.0",
-  "morning_attestation_sha256": "dc90e170535d0572f1fd22494552b9db3a74374d922e2d17c6d3c85eb369ee31",
-  "morning_product_sha256": "180c5df655215e341e42d708f32e693b1fe3742230c38704881b916f8e18d47e",
-  "report_source_sha256": "a7e6322fdd318b1665deb46bfb720eebc87b22dc3f3d40de9486d6476ffdd636",
+  "morning_attestation_sha256": "b2887294197ec15339fd4c20d7200f1c8a1edd0c0bd146037d694438e81ed6a7",
+  "morning_product_sha256": "11152db5cdd958522cb4e10f563ffe0db0ef422fc4aea762c134ad24cd174ea6",
+  "report_source_sha256": "e5fb084efdde248dbbed7502b10a1e8f12ff4076f76d64d003427921d7fbb49f",
   "schema": "tqqq-signal-v890-hosted-attestation-v1",
   "session_date": "2026-10-29",
-  "source_html_sha256": "918f54c5940f59ca9fb42c992005b66a4522d803348c72f13de631026f8a4608",
-  "source_sha256": "fa9e39db0e583da9e2fc403ce090c7679c477ebb06b4a448a1c32fe71ba50091",
+  "source_html_sha256": "817ee87470d1e09501bab4ffaedcdb8e33af030a7ec804e0e56bff043d44da2f",
+  "source_sha256": "00f4985d05fadb474fb9151e2dae5b3c57518b4642f18541445bb44e2739ca24",
   "staticrypt_config_sha256": "b238c5d43a9b48aa766ecc99b505a26243b89f9d4587719d05d6b35e3077e2cc"
 }
